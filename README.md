@@ -41,7 +41,7 @@
 ---
 
 ## 📌 เครดิต (Credits)
-- **ผู้พัฒนา:** [USERNAME](https://github.com/roninscript1122)
+- **ผู้พัฒนา:** [RONIN Script](https://github.com/roninscript1122)
 - **GitHub Repository:** [WifiAnalyzer-Termux](https://github.com/roninscript1122/WifiAnalyzer-Termux)
 
 ---
