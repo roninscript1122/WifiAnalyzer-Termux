@@ -13,7 +13,7 @@
    ```
 2. **Clone Repository จาก GitHub**
    ```sh
-   git clone https://github.com/USERNAME/WifiAnalyzer-Termux.git
+   git clone https://github.com/roninscript1122/WifiAnalyzer-Termux.git
    cd WifiAnalyzer-Termux
    ```
 3. **ให้สิทธิ์รันไฟล์**
