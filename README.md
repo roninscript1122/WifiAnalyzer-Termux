@@ -11,12 +11,16 @@
    pkg update && pkg upgrade -y
    pkg install git python wireless-tools -y
    ```
-2. **Clone Repository จาก GitHub**
+2. **เปิดใช้งาน Kali**
+   ```sh
+   nethunter
+   ```
+3. **Clone Repository จาก GitHub**
    ```sh
    git clone https://github.com/roninscript1122/WifiAnalyzer-Termux.git
    cd WifiAnalyzer-Termux
    ```
-3. **ให้สิทธิ์รันไฟล์**
+4. **ให้สิทธิ์รันไฟล์**
    ```sh
    chmod +x wifi_analyzer.py
    ```
